@@ -4,7 +4,7 @@
 
 /* Assign a unique ID to this sensor at the same time */
 Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified(12345);
-
+/*Komentarz 111
 void displaySensorDetails(void)
 {
   sensor_t sensor;
